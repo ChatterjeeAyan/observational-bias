@@ -1,4 +1,4 @@
-# Observational Bias in Link Prediction and Inductive Tests
+# Observational Bias and Inductive Link Prediction
 
 # Abstract 
 
