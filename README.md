@@ -38,12 +38,6 @@ ogbl-ppa: /Inductive-tests/ogb/examples/linkproppred/ppa/
 
 ogbl-collab: /Inductive-tests/ogb/examples/linkproppred/collab/
 
-## Temporal Networks
-
-The open-source data can be downloaded from: http://snap.stanford.edu/data/soc-RedditHyperlinks.html
-
-For the details and the original implementation of DyHATR, check out: https://github.com/skx300/DyHATR
-
 # Supplementary Material
 
 ## Topological Shortcuts in DGL
